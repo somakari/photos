@@ -1,2 +1,2 @@
 # photos
-Gilfinart photo gallery
+SomAkari photo gallery
